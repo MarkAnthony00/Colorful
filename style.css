@@ -1,0 +1,278 @@
+body {
+    background-color: rgb(222, 255, 255);
+    font-size: 17px;
+    width: 100%;
+    background: linear-gradient(-90deg, #414403, #55045b, #045246, #10455b);
+	background-size: 400% 400%;
+	animation: color1 20s ease infinite;
+    cursor: none;
+    display: block;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.color1{
+    background: linear-gradient(90deg, #e407e4, #00ff40, #6200ff, #00ffd9);
+    width: 33.5%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+
+.color2{
+    background: linear-gradient(90deg, #eb05eb, #00c1fb, #e407e4, #7725dc);
+    width: 33.5%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+.color3{
+    background: linear-gradient(90deg, #ff00ff, #fff700, #0066ff,#ff00c8);
+    width: 33%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+.color4{
+    background: linear-gradient(90deg, #ff00ff, #00ffd9, #4000ff, #31ff07);
+    width: 33.5%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+.color5{
+    background: linear-gradient(90deg, #0077ff, #3bd3bb, #ff7b00, #ffd200);
+    width: 33.5%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+.color6{
+    background: linear-gradient(90deg, #00ffb3, #00ffd9, #00ff80,#5200ff);
+    width: 33%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+.color7{
+    background: linear-gradient(90deg, #cd00cd, #ff0084, #bbff44,#dd44ff);
+    width: 33.5%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+.color8{
+    background: linear-gradient(90deg, #bcff22, #ddff11, #ff33ee,#bbeeff);
+    width: 33.5%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+.color9{
+    background: linear-gradient(90deg, #22ffff, #02ff74, #ff03c8,#ff0d00);
+    width: 33%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+.color10{
+    background: linear-gradient(90deg, #f70606, #ca04fc, #07e694,#1a05f7);
+    width: 33.5%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+.color11{
+    background: linear-gradient(90deg, #00ff51, #0088ff, #dcc425,#5f25dc);
+    width: 33.5%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+
+.color12{
+    background: linear-gradient(90deg, #ff00b7, #00ffd9, #00d0ff,#ff0000);
+    width: 33%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+.color13{
+    background: linear-gradient(90deg, #ff00ff, #6f00ff, #ff008c,#ff0073);
+    width: 33.5%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+.color14{
+    background: linear-gradient(90deg, #fff200, #f42f08, #25dc8d,#2590dc);
+    width: 33.5%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+.color15{
+    background: linear-gradient(90deg, #ff00ff, #3bd3bb, #44dc25,#2bff00);
+    width: 33%;
+    height: 20vh;
+    background-size: 400% 400%;
+    animation: color1 10s ease infinite;
+    float: left;
+    animation-delay: 1s;
+    display: block; 
+    transition: 200ms;
+    cursor: none;
+}
+
+.color1:hover {
+    opacity: .3;
+}
+
+.color2:hover {
+    opacity: .3;
+}
+
+.color3:hover {
+    opacity: .3;
+}
+
+.color4:hover {
+    opacity: .3;
+}
+
+.color5:hover {
+    opacity: .3;
+}
+
+.color6:hover {
+    opacity: .3;
+}
+
+.color7:hover {
+    opacity: .3;
+}
+
+.color8:hover {
+    opacity: .3;
+}
+
+.color9:hover {
+    opacity: .3;
+}
+
+.color10:hover {
+    opacity: .3;
+}
+
+.color11:hover {
+    opacity: .3;
+}
+
+.color12:hover {
+    opacity: .3;
+}
+
+.color13:hover {
+    opacity: .3;
+}
+
+.color14:hover {
+    opacity: .3;
+}
+
+.color15:hover {
+    opacity: .3;
+}
+
+
+@keyframes color1 {
+	0% {
+		background-position: 60% 0%;
+	}
+    25% {
+		background-position: 0% 80%;
+	}
+	10% {
+		background-position: 60% 0%;
+	}
+    75% {
+		background-position: 0% 80%;
+	}
+	100% {
+		background-position: 60% 0%;
+	}
+}
